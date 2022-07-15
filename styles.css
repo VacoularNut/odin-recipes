@@ -1,17 +1,10 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
+    background-color: rgba(58, 189, 189, 0.7);
 }
 h1 {
-    background-color: rgb(58, 189, 189);
+    background-color: rgba(58, 189, 189);
     text-align: center;
-    outline-style: dotted;
-    outline-offset: 5px;
-}
-ul {
-    background-color: rgb(129, 170, 170);
-    outline-style: auto;
-    outline-offset: 5px;
-    
 }
 img {
     height: auto;
